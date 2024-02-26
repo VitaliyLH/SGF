@@ -1,0 +1,23 @@
+{
+"Parameters":{
+"L" : 32,
+"T" : 1,
+"x":0,
+"Delta" : 0,
+"V" : 1,
+"J" : 4,
+"tp" : 0.1,
+"tpn" : 0.1,
+"tn" : 0.1,
+"t2" : 0.1,
+"Green" : 4,
+"Seed" : 34715
+},
+"SGF": {
+"Error":0.1,
+"Bins":20,
+"WarmSteps":5000000,
+"MinMeasSteps":5000000,
+"InMeasSteps":10000
+}
+}
